@@ -7,7 +7,7 @@
 
             Maze maze = new Maze(x,y);
 
-        set a x and y and run a class
+        set a x and y and run the class
 
         2. To change a difficulty of maze int line 
 
